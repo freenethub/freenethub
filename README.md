@@ -35,7 +35,14 @@ FreeNetHub肯定不会，您尽管放心使用，我们已经给您提供了免费试用机会，请试用一下看
 
 可以，当您在其它电脑使用FreeNetHub时候，请重新验证一下身份就可以了，我们不限制您在哪台电脑上使用它。
 
+## 联系我们
+
+电子邮件：[freenethubservice@gmail.com][2]
+Twitter : [https://twitter.com/freenethub][3]
+
 [1]: https://github.com/freenethub/freenethub
+[2]: freenethubservice@gmail.com
+[2]: https://twitter.com/freenethub
 
 [10001]: https://github.com/freenethub/freenethub
 [10002]: https://github.com/freenethub/freenethub
