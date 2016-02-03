@@ -42,7 +42,7 @@ Twitter : [https://twitter.com/freenethub][3]
 
 [1]: https://github.com/freenethub/freenethub
 [2]: freenethubservice@gmail.com
-[2]: https://twitter.com/freenethub
+[3]: https://twitter.com/freenethub
 
 [10001]: https://github.com/freenethub/freenethub
 [10002]: https://github.com/freenethub/freenethub
