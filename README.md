@@ -24,7 +24,7 @@ FreeNetHub肯定不会，您尽管放心使用，我们已经给您提供了免费试用机会，请试用一下看
 
 ##### 4，它支持哪些操作系统？
 
-它支持Windows XP及以上版本操作系统，Windwos 7 、 Windows 8 、Windows 10 。
+它支持Windows XP及以上版本操作系统，Windows 7 、 Windows 8 、Windows 10 。
 
 ##### 5，它有没有流量限制？
 
