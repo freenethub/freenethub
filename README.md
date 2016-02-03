@@ -1,4 +1,4 @@
-[中文][10001] [English][10002]
+[中文][10001]  [English][10002]
 # FreeNetHub - 最好的翻墙软件
 下载：[https://github.com/freenethub/freenethub#freenethub][1]
 
