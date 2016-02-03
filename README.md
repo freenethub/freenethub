@@ -37,13 +37,14 @@ FreeNetHub肯定不会，您尽管放心使用，我们已经给您提供了免费试用机会，请试用一下看
 
 ## 联系我们
 
-电子邮件：[freenethubservice@gmail.com][2]
+电子邮件：freenethubservice@gmail.com
 
-Twitter : [https://twitter.com/freenethub][3]
+Twitter : [https://twitter.com/freenethub][2]
+
+QQ: 3365905770
 
 [1]: https://github.com/freenethub/freenethub
-[2]: freenethubservice@gmail.com
-[3]: https://twitter.com/freenethub
+[2]: https://twitter.com/freenethub
 
 [10001]: https://github.com/freenethub/freenethub
 [10002]: https://github.com/freenethub/freenethub
