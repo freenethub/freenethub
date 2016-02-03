@@ -1,6 +1,6 @@
 [中文][10001]  [English][10002]
 # FreeNetHub - 最好的翻墙软件
-下载：[https://github.com/freenethub/freenethub#freenethub][1]
+下载：[https://github.com/freenethub/freenethub][1]
 
 FreeNetHub是一个相当棒的翻墙软件，它能帮您在任何时间、任何地点，访问任何正常工作的网站，没有任何人能够阻止您！！！
 
@@ -35,7 +35,7 @@ FreeNetHub肯定不会，您尽管放心使用，我们已经给您提供了免费试用机会，请试用一下看
 
 可以，当您在其它电脑使用FreeNetHub时候，请重新验证一下身份就可以了，我们不限制您在哪台电脑上使用它。
 
-[1]: http://auto.sina.com.cn
+[1]: https://github.com/freenethub/freenethub
 
-[10001]: http://www.163.com
-[10002]: http://www.sohu.com
+[10001]: https://github.com/freenethub/freenethub
+[10002]: https://github.com/freenethub/freenethub
