@@ -1,6 +1,6 @@
 [中文][10001]  [English][10002]
 
-## 下载：[https://github.com/freenethub/freenethub][1]
+## 下载：[https://codeload.github.com/freenethub/freenethub/zip/master][1]
 
 # FreeNetHub - 最好的翻墙软件
 
@@ -50,7 +50,7 @@ Twitter : [https://twitter.com/freenethub][2]
 
 QQ: 3365905770
 
-[1]: https://github.com/freenethub/freenethub
+[1]: https://codeload.github.com/freenethub/freenethub/zip/master
 [2]: https://twitter.com/freenethub
 
 [10001]: https://github.com/freenethub/freenethub
