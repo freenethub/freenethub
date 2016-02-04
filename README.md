@@ -48,8 +48,6 @@ FreeNetHub肯定不会，您尽管放心使用，我们已经给您提供了免费试用机会，请试用一下看
 
 Twitter : [https://twitter.com/freenethub][2]
 
-QQ: 3365905770
-
 [1]: https://codeload.github.com/freenethub/freenethub/zip/master
 [2]: https://twitter.com/freenethub
 
