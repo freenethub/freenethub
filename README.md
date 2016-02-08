@@ -2,9 +2,9 @@
 
 ### 下载：[https://codeload.github.com/freenethub/freenethub/zip/master][1]
 
-# FreeNetHub - 迄今为止最好的翻墙软件
+# FreeNetHub 
 
-## 只有你不想访问的网站，没有你不能访问的网站！！
+### 迄今为止最好的翻墙软件，只有你不想访问的网站，没有你不能访问的网站！！
 
 FreeNetHub是迄今为止最好的翻墙软件，它能帮您在任何时间、任何地点，访问任何正常工作的网站！！！
 
