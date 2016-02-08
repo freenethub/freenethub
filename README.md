@@ -1,6 +1,6 @@
-#### 下载：[https://codeload.github.com/freenethub/freenethub/zip/master][1]
-
 [中文][10001]  [English][10002]
+
+### 下载：[https://codeload.github.com/freenethub/freenethub/zip/master][1]
 
 # FreeNetHub - 迄今为止最好的翻墙软件
 
