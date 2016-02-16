@@ -15,4 +15,4 @@ FreeNetHub是一款绿色软件，点击上面我们提供的连接或点击"Download Zip"按钮，都能够
 ## 使用说明
 
 
-[1]: https://codeload.github.com/freenethub/freenethub
+[1]: https://github.com/freenethub/freenethub
