@@ -78,4 +78,6 @@ FreeNetHub是一款绿色软件，点击上面我们提供的下载链接或点击"Download Zip"按钮，都
 
 点击“退出”菜单，彻底退出我们软件，在您希望再次时候时候，双击它就可以了！！
 
+如果您还有什么使用问题，请您给我们发送电子邮件，我们会及时回复您：freenethubservice@gmail.com
+
 [1]: https://github.com/freenethub/freenethub
