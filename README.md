@@ -1,6 +1,7 @@
 [中文][10001]  [English][10002]
 
-### 下载：[https://codeload.github.com/freenethub/freenethub/zip/master][1]
+#### 下    载：[https://codeload.github.com/freenethub/freenethub/zip/master][1]
+#### 使用说明：[https://github.com/freenethub/freenethub/blob/master/document/document_cn.md][3]
 
 # FreeNetHub 
 
@@ -79,6 +80,7 @@ Twitter : [https://twitter.com/freenethub][2]
 
 [1]: https://codeload.github.com/freenethub/freenethub/zip/master
 [2]: https://twitter.com/freenethub
+[3]: https://github.com/freenethub/freenethub/blob/master/document/document_cn.md
 
 [10001]: https://github.com/freenethub/freenethub
 [10002]: https://github.com/freenethub/freenethub
