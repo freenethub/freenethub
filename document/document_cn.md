@@ -1,3 +1,5 @@
+## [返回][1]
+
 ## 安装FreeNetHub
 
 FreeNetHub是一款绿色软件，点击上面我们提供的连接或点击"Download Zip"按钮，都能够下载它的压缩包，下载完毕后解压缩，随后把“FreeNetHub.exe”拷贝到你想放的地方，双击它就可以运行了！！
@@ -11,3 +13,6 @@ FreeNetHub是一款绿色软件，点击上面我们提供的连接或点击"Download Zip"按钮，都能够
 如果找回失败，不要紧，请您及时联系我们，我们会帮您顺利解决！！
 
 ## 使用说明
+
+
+[1]: https://codeload.github.com/freenethub/freenethub

@@ -1,6 +1,6 @@
-[中文][10001]  [English][10002]
+[中文][10001]  
 
-#### 下    载：[https://codeload.github.com/freenethub/freenethub/zip/master][1]
+#### 下载：[https://codeload.github.com/freenethub/freenethub/zip/master][1]
 #### 使用说明：[https://github.com/freenethub/freenethub/blob/master/document/document_cn.md][3]
 
 # FreeNetHub 
