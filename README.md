@@ -3,14 +3,6 @@
 #### 下载：[https://codeload.github.com/freenethub/freenethub/zip/master][1]
 #### 使用说明：[https://github.com/freenethub/freenethub/blob/master/document/document_cn.md][3]
 
-# FreeNetHub 
-
-### 迄今为止最好的翻墙软件，只有你不想访问的网站，没有你不能访问的网站！！
-
-FreeNetHub能帮您在任何时间、任何地点，访问任何正常工作的网站！！！
-
-使用FreeNetHub，再没有任何人能够阻止你访问互联网，从此你可以真正无拘无束畅游互联网了！！
-
 ## 我们为什么提供这款软件？
 
 不说你也知道，谷歌是公认的最好的搜索引擎，你能用吗？Gmail您已经多长时间没有使用了？你所看到的真的是真实的吗？互联网应该是所有人的天堂，在这里没有高低贵贱，在这里大家可以共同分享！！如果你现在没有，那么我们给你一个自由的互联网，给你一个你想要的天堂！！
