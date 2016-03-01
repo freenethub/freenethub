@@ -21,7 +21,7 @@ FreeNetHub能帮您在任何时间、任何地点，访问任何正常工作的网站！！！
 
 ## 怎么能证明你们软件可以提供持续的服务？
 
-无论什么时候，您给我们发一个邮件，我们的邮箱：freenethubservice@gmail.com ，我们收到邮件后回复您的，您看看我们是否一直用这个Gmail邮箱给您回复的？我们一直通过FreeNetHub访问Gmail，为您提供服务！！！
+无论什么时候，您给我们发一个邮件，我们的邮箱：freenethubservice@gmail.com ，我们收到您的邮件后会回复您，您看看我们是否一直用这个Gmail邮箱给您回复？我们一直通过FreeNetHub访问Gmail这个邮箱，为您提供服务！！！
 
 ## 付费方式:
 
