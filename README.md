@@ -1,4 +1,4 @@
-#### 下载：[https://codeload.github.com/freenethub/freenethub/zip/master][1]
+#### 下载：[https://raw.githubusercontent.com/freenethub/freenethub/master/FreeNetHub.exe][1]
 #### 使用说明：[https://github.com/freenethub/freenethub/blob/master/document/document_cn.md][3]
 
 ## 我们为什么提供这款软件？
@@ -93,7 +93,7 @@ FreeNetHub是一款绿色软件，把压缩包下载完毕后，解压缩，随后把“FreeNetHub.exe”拷
 
 Twitter : [https://twitter.com/freenethub][2]
 
-[1]: https://codeload.github.com/freenethub/freenethub/zip/master
+[1]: https://raw.githubusercontent.com/freenethub/freenethub/master/FreeNetHub.exe
 [2]: https://twitter.com/freenethub
 [3]: https://github.com/freenethub/freenethub/blob/master/document/document_cn.md
 
