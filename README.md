@@ -1,4 +1,4 @@
-#### 下载：
+#### [下载 FreeNetHub][1]  [永久获取FreeNetHub][4]
 
 [https://raw.githubusercontent.com/freenethub/freenethub/master/FreeNetHub.exe][1]
 
