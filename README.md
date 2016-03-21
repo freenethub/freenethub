@@ -1,15 +1,5 @@
 #### [下载 FreeNetHub][1]      [永久获取FreeNetHub][4]
 
-[https://raw.githubusercontent.com/freenethub/freenethub/master/FreeNetHub.exe][1]
-
-#### 使用说明：
-
-[https://github.com/freenethub/freenethub/blob/master/document/document_cn.md][3]
-
-#### 永久获取FreeNetHub方法：
-
-[https://raw.githubusercontent.com/freenethub/freenethub/master/document/BTSync.rar][4]
-
 ## 永久免费版：
 
 3天全功能使用，随后每次使用有时间限制，两次使用需要间隔一定时间！
