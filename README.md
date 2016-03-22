@@ -1,4 +1,4 @@
-## [下载 FreeNetHub][1]      [永久获取FreeNetHub][4]
+## [下载 FreeNetHub][1] | [永久获取FreeNetHub][4]
 
 ## 永久免费版：
 
